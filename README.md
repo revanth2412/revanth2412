@@ -1,4 +1,5 @@
 # 💫 About Me:
+Greetings, everyone! I go by Revanth, a self-taught programmer driven by unbridled passion. My forte lies in crafting sleek, minimalist web applications, powered by robust backend systems. By profession, I serve as a Software Development Engineer at Bosch, where I'm immersed in the exhilarating realm of rapid prototyping for innovative projects. I thrive on bringing to life solutions that were previously mere concepts, constantly striving to enhance value for our end customers
 🔭 I’m currently working on full stack development<br>👯 I’m looking to collaborate on AI/ML , DL enthusiasts<br>🌱 I’m currently learning Full stack dev , AI/ML<br>
 
 
